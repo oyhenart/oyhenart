@@ -1,34 +1,46 @@
 <div align="center">
-  <a href="https://github.com/oyhenart">
-    <img src="https://avatars.githubusercontent.com/u/143138109?v=4" 
-         width="150" 
-         height="150" 
-         alt="IAO Football Analytics Logo"
-         style="max-width: 100%; border-radius: 30%; border: 4px solid #456b53; display: block;">
-  </a>
+  <img src="https://avatars.githubusercontent.com/u/143138109?v=4" width="120" alt="IAO Logo">
 
   # IAO Football Analytics
-  ### Bienvenidos a mi Portfolio de Análisis de Datos ⚽📊
+  
   **Analista de Datos | Automatización y BI aplicados al Fútbol | Python · n8n · Visualización · Análisis de Rendimiento**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/israel-oyhenart)
 </div>
 
 ---
 
-- **Herramientas & Tecnologías:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Sobre el Proyecto
+Bienvenidos a mi espacio de **Football Data Science**. Aquí transformo la complejidad de los datos deportivos en decisiones estratégicas y flujos automatizados eficientes mediante Python y n8n.
+
+### Tech Stack
+- **Lenguajes:** `Python` (Pandas, Matplotlib, Mplsoccer)
+- **Automatización:** `n8n`
+- **Visualización:** `Streamlit` / `Power BI`
+  
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![StatsBomb](https://img.shields.io/badge/StatsBomb-EC1C24?style=for-the-badge&logoColor=white)
+![mplsoccer](https://img.shields.io/badge/mplsoccer-2E7D32?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=python&logoColor=white)
+
 ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-- **Proyecto Destacado:** [IAO-Football-Analytics](https://github.com/oyhenart/IAO-Football-Analytics)
-- **Vivo en:** Buenos Aires, Argentina.
-
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa1c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ---
 
-### Estadísticas de GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyhenart&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oyhenart&show_icons=true&theme=tokyonight)
-
----
+### Estadísticas de Desarrollo
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyhenart&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oyhenart&show_icons=true&theme=tokyonight" height="150" />
+</p>
 
 ### Conectemos:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/israel-oyhenart)
