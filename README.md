@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, soy Israel Oyhenart 
 
-<!--
-**oyhenart/oyhenart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst especializado en Football Analytics 
 
-Here are some ideas to get you started:
+Transformo datos deportivos en insights tácticos mediante Python y flujos automatizados de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Stack:** Python (Pandas, Matplotlib, Mplsoccer), n8n, SQL.
+- **Proyecto Destacado:** [IAO-Football-Analytics](https://github.com/oyhenart/IAO-Football-Analytics)
+- **Vivo en:** Buenos Aires, Argentina.
+
+---
+
+### Estadísticas de GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyhenart&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oyhenart&show_icons=true&theme=tokyonight)
+
+---
+
+### Conectemos:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/israel-oyhenart)
