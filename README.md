@@ -1,8 +1,10 @@
-# Hola, soy Israel Oyhenart 
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/143138109?v=4" width="150" alt="IAO Football Analytics Logo">
 
-### Data Analyst especializado en Football Analytics 
-
-Transformo datos deportivos en insights tácticos mediante Python y flujos automatizados de datos.
+  # IAO Football Analytics
+  ### Bienvenidos a mi Portfolio de Análisis de Datos 
+  **Automatización y BI aplicados al Deporte | Python · n8n · Visualización**
+</div>
 
 - **Herramientas & Tecnologías:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
