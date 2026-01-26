@@ -4,12 +4,12 @@
          width="150" 
          height="150" 
          alt="IAO Football Analytics Logo"
-         style="max-width: 100%; border-radius: 50%; border: 4px solid #456b53; display: block;">
+         style="max-width: 100%; border-radius: 30%; border: 4px solid #456b53; display: block;">
   </a>
 
   # IAO Football Analytics
   ### Bienvenidos a mi Portfolio de Análisis de Datos ⚽📊
-  **Automatización y BI aplicados al Deporte | Python · n8n · Visualización**
+  **Analista de Datos | Automatización y BI aplicados al Fútbol | Python · n8n · Visualización · Análisis de Rendimiento**
 </div>
 
 ---
