@@ -41,6 +41,3 @@ Bienvenidos a mi espacio de **Football Data Science**. Aquí transformo la compl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyhenart&layout=compact&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=oyhenart&show_icons=true&theme=tokyonight" height="150" />
 </p>
-
-### Conectemos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/israel-oyhenart)
