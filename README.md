@@ -1,10 +1,18 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/143138109?v=4" width="150" alt="IAO Football Analytics Logo">
+  <a href="https://github.com/oyhenart">
+    <img src="https://avatars.githubusercontent.com/u/143138109?v=4" 
+         width="150" 
+         height="150" 
+         alt="IAO Football Analytics Logo"
+         style="max-width: 100%; border-radius: 50%; border: 4px solid #456b53; display: block;">
+  </a>
 
   # IAO Football Analytics
-  ### Bienvenidos a mi Portfolio de Análisis de Datos 
+  ### Bienvenidos a mi Portfolio de Análisis de Datos ⚽📊
   **Automatización y BI aplicados al Deporte | Python · n8n · Visualización**
 </div>
+
+---
 
 - **Herramientas & Tecnologías:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
