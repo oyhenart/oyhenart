@@ -36,8 +36,3 @@ Bienvenidos a mi espacio de **Football Data Science**. Aquí transformo la compl
 ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ---
 
-### Estadísticas de Desarrollo
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyhenart&layout=compact&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=oyhenart&show_icons=true&theme=tokyonight" height="150" />
-</p>
