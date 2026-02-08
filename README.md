@@ -20,7 +20,7 @@ Bienvenidos a mi espacio de **Football Data Science**. Aquí transformo la compl
 - **Visualización:** `Streamlit` / `Power BI`
 
 **Captura y Etiquetado**
-![LongoMatch](https://img.shields.io/badge/LongoMatch-white?labelColor=white&color=2E7D32)
+![LongoMatch](https://img.shields.io/badge/LongoMatch-2E7D32?style=for-the-badge&logo=play&logoColor=white)
 
 **Procesamiento de Datos**
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
